@@ -32,7 +32,7 @@ export default function Layout({ children, home }) {
               priority
               src='/images/profile.jpg'
               className={utilStyles.borderCircle}
-              height={144
+              height={144}
               width={110}
               alt={name}
             />
