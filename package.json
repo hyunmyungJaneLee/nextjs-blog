@@ -1,13 +1,17 @@
 {
-  "private": true,
+  "name": "next_blog",
+  "version": "1.0.0",
+  "description": "넥스트로 만드는 이력서 프로젝트",
+  "author": "이현명 <hmlee2356@gmail.com>",
+  "license": "MIT",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start"
   },
   "dependencies": {
-    "next": "latest",
-    "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "next": "10.0.6",
+    "react": "17.0.1",
+    "react-dom": "17.0.1"
   }
 }
